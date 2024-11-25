@@ -1,7 +1,7 @@
 # optcg_bounty_hunter
-One Piece Trading Card Game - Bounty Hunter
+[One Piece] Trading Card Game - Bounty Hunter
 
-The goal is to provide an app to help users calculate the cost of building a deck for the One Piece TCG, using information from TCGPlayer via https://tcgcsv.com/
+The goal is to provide an app to help users calculate the cost of building a deck for the [One Piece] TCG, using information from TCGPlayer via https://tcgcsv.com/
 This may help users finance their own decks, and calculate the cost of decks seen in competitive play.
 
 Users will be able to : 
