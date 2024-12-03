@@ -1,0 +1,122 @@
+[
+    {
+        "model": "bounty.card",
+        "pk": 1,
+        "fields": {
+            "card_name": "Luffy",
+            "card_mp": " 710.00",
+            "card_rarity": " SSSR",
+            "card_desc": " stronk man",
+            "card_color": " black",
+            "card_cost": " 9"
+        }
+    },
+    {
+        "model": "bounty.card",
+        "pk": 2,
+        "fields": {
+            "card_name": "Zoro",
+            "card_mp": " 420.00",
+            "card_rarity": " SSR",
+            "card_desc": " very ztronk",
+            "card_color": " red",
+            "card_cost": " 7"
+        }
+    },
+    {
+        "model": "bounty.card",
+        "pk": 3,
+        "fields": {
+            "card_name": "Sanji",
+            "card_mp": " 419.00",
+            "card_rarity": " SSR",
+            "card_desc": " big kick",
+            "card_color": " green",
+            "card_cost": " 6"
+        }
+    },
+    {
+        "model": "bounty.card",
+        "pk": 4,
+        "fields": {
+            "card_name": "Sogeking",
+            "card_mp": " 1000.15",
+            "card_rarity": " GOD",
+            "card_desc": " Manga",
+            "card_color": " blue",
+            "card_cost": " 5"
+        }
+    },
+    {
+        "model": "bounty.card",
+        "pk": 5,
+        "fields": {
+            "card_name": "Robin",
+            "card_mp": " 222.22",
+            "card_rarity": " SR",
+            "card_desc": " many hands",
+            "card_color": " purple",
+            "card_cost": " 8"
+        }
+    },
+    {
+        "model": "bounty.card",
+        "pk": 6,
+        "fields": {
+            "card_name": "Nami",
+            "card_mp": " 888.88",
+            "card_rarity": " SR",
+            "card_desc": " much navi",
+            "card_color": " blue",
+            "card_cost": " 3"
+        }
+    },
+    {
+        "model": "bounty.card",
+        "pk": 7,
+        "fields": {
+            "card_name": "Choppa",
+            "card_mp": " 4.20",
+            "card_rarity": " C",
+            "card_desc": " pet",
+            "card_color": " red",
+            "card_cost": " 4"
+        }
+    },
+    {
+        "model": "bounty.card",
+        "pk": 8,
+        "fields": {
+            "card_name": "Brook",
+            "card_mp": " 69.69",
+            "card_rarity": " SR",
+            "card_desc": " pantsu",
+            "card_color": " black",
+            "card_cost": " 5"
+        }
+    },
+    {
+        "model": "bounty.card",
+        "pk": 9,
+        "fields": {
+            "card_name": "Franky",
+            "card_mp": " 808.22",
+            "card_rarity": " SSR",
+            "card_desc": " SUUUPPERRRR",
+            "card_color": " green",
+            "card_cost": " 6"
+        }
+    },
+    {
+        "model": "bounty.card",
+        "pk": 10,
+        "fields": {
+            "card_name": "Jinbe",
+            "card_mp": " 444.44",
+            "card_rarity": " SSR",
+            "card_desc": " Fshhhhh",
+            "card_color": " blue",
+            "card_cost": " 5"
+        }
+    }
+]
